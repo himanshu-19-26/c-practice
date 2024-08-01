@@ -17,4 +17,3 @@ cout<<"the value of at adress of adress c "<<**c<<endl;
 
 
     return 0;
-}
